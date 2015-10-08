@@ -1,0 +1,1 @@
+Web Mu Online is an independent experimental web browser multiplayer game, based on the classic MMORPG "Mu Online" by Korean company Webzen. The project's goal is to convert all main concepts and mechanics of the game into a standalone light-weight web browser RPG.
